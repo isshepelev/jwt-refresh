@@ -39,6 +39,7 @@ public class JwtRefreshApplication {
             userService.addRoleToUser("TaRaTaTA", "ROLE_SUPER_ADMIN");
             userService.addRoleToUser("TaRaTaTA", "ROLE_ADMIN");
             userService.addRoleToUser("TaRaTaTA", "ROLE_MANAGER");
+            userService.addRoleToUser("TaRaTaTA", "ROLE_USER");
             userService.addRoleToUser("Dima2004", "ROLE_ADMIN");
             userService.addRoleToUser("SpyKraken", "ROLE_USER");
             userService.addRoleToUser("Ge-force", "ROLE_MANAGER");
