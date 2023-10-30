@@ -10,7 +10,7 @@
     </parent>
     <groupId>ru.isshepelev</groupId>
     <artifactId>jwtRefresh</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>0.0.1</version>
     <name>jwtRefresh</name>
     <description>jwtRefresh</description>
     <properties>
